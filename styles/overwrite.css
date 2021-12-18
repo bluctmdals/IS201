@@ -1,0 +1,15 @@
+.onlyitalics {
+    font: italic;
+  }
+  
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+  }
+
+.italic-post-subtitle {
+    margin-bottom: 0.625rem;
+    font: italic;
+}
